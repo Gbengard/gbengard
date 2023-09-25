@@ -8,7 +8,7 @@
 - **AWS Cloud:** As an AWS Certified Solutions Architect, I have in-depth expertise in AWS services, architecture, and best practices.
 - **CI/CD:** Proficient in setting up Continuous Integration and Continuous Deployment pipelines for efficient software delivery.
 - **Containerization:** Proficient in containerization technologies such as Docker and container orchestration with Kubernetes.
-- **Automation:** I believe in the power of automation and have experience using tools like Ansible and Terraform for infrastructure as code (IaC).
+- **Automation:** I believe in the power of automation and have experience using tools like CloudFormation and Terraform for infrastructure as code (IaC).
 
 ## 🚀 Projects
 
