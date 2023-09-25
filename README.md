@@ -22,8 +22,8 @@ Feel free to explore these repositories, contribute, or ask questions if you're 
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/gbenga-ogbonyenitan/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/gbengard)
+- LinkedIn: (https://www.linkedin.com/in/gbenga-ogbonyenitan/)
+- Twitter: (https://twitter.com/gbengard)
 - Email: gbengardo@gmail.com
 
 Feel free to reach out if you'd like to collaborate on projects, have questions, or just want to connect and discuss technology and DevOps!
