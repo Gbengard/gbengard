@@ -1,5 +1,4 @@
 # DevOps Engineer & AWS Cloud Solution Architect
-# DevOps Engineer & AWS Cloud Solution Architect
 
 👋 Hello! I'm Gbenga Ogbonyenitan, a passionate DevOps Engineer and AWS Cloud Solution Architect with over 5 years of experience in designing, building, and optimizing cloud-based solutions. I'm here to share my knowledge, projects, and insights with the GitHub community.
 
