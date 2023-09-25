@@ -14,7 +14,7 @@
 
 Here are some of the projects you'll find in my repositories:
 
-- [Project 1](https://github.com/Gbengard/esigned): This project automating configuration that includes linting, Docker image building and security scanning, EKS cluster creation, ArgoCD installation, and application deployment.
+- [Project 1](https://github.com/Gbengard/esigned): This project automates configuration that includes linting, Docker image building and security scanning, EKS cluster creation, ArgoCD installation, and application deployment.
 - [Project 2](https://github.com/Gbengard/aws-dynamodb-lambda-trigger): This project focuses on setting up a DynamoDB table that stores information about babies awaiting adoption. Specifically, when the adopted field in the table is updated to true, a Lambda function is triggered, sending an email to the adoption center to notify them that the baby named "[baby abc]" has been adopted.
 - [Project 3](https://github.com/Gbengard/aws-efs): This project implement a simple Elastic File System (EFS) architecture within an AWS VPC.
 
